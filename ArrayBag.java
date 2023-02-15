@@ -14,3 +14,5 @@ class ArrayBag {
     System.out.println(name[4]);
   }
 }
+
+//practice
